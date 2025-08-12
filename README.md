@@ -14,6 +14,11 @@ I want to Implement a "Widget" upload section eventually too so users can code w
 
 Unfortunately due to HID limitations it cant be used stand alone to open shortcuts, but you can easily set up a app on your PC that gives app shortcuts key binds and that way you can launch applications too.
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/apexinvent">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95%EF%B8%8F&slug=apexinvent&button_colour=FF6600&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" />
+  </a>
+</p>
 
 ---
 
