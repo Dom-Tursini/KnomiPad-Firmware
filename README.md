@@ -14,7 +14,7 @@ I want to Implement a "Widget" upload section eventually too so users can code w
 
 Unfortunately due to HID limitations it cant be used stand alone to open shortcuts, but you can easily set up a app on your PC that gives app shortcuts key binds and that way you can launch applications too.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="apexinvent" data-color="#ff6600" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+
 ---
 
 ## Highlights 🚀
