@@ -43,7 +43,9 @@ Unfortunately due to HID limitations it cant be used stand alone to open shortcu
 
 ## Web Editor Overview 🧩
 
-![KnomiPad web editor](docs/images/web-editor-dashboard.png)
+<p align="center">
+  <img src="docs/images/web-editor-dashboard.png" alt="KnomiPad dash" />
+</p>
 
 The home page is split into three blocks:
 
