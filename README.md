@@ -1,7 +1,7 @@
 # KnomiPad — Turn Your BTT Knomi V2 into a Mini Stream Deck 🎛️
 
 <p align="center">
-  <img src="docs/images/knomipad-hero.png" alt="KnomiPad hero" />
+  <img src="docs/images/knomipad-hero.png" alt="KnomiPad hero1" />
 </p>
 
 KnomiPad is custom firmware that transforms the **BIGTREETECH Knomi V2** into a sleek, swipeable **Bluetooth® HID macropad** with a built-in, mobile-friendly **web editor**. Create keys, assign actions, upload icons, pick colors (with gradients), and swipe between pages — plus a clean **Home screen clock**. 
