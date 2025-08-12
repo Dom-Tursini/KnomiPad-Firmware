@@ -60,8 +60,6 @@ The home page is split into three blocks:
 
 ## Macro Types (No Coding Needed) ⌨️
 
-![Macro types](docs/images/macro-types.png)
-
 1) **Keystroke**  
    Send key **chords** and **pauses** in sequence.  
    _Examples:_ `LCtrl+c, 1s, LCtrl+v` • `F12` • `LShift+a, 500ms, LShift+b`
@@ -95,8 +93,6 @@ The home page is split into three blocks:
 
 ## On-Device UI 🖥️
 
-![Home clock + pages](docs/images/home-clock-and-pages.jpg)
-
 - **Home Clock** — white-on-black, blinking colon.  
 - **Pages** — swipe left/right between macro pages.  
 - **Tap Feedback** — tiny white dot appears on press.  
@@ -113,4 +109,4 @@ The home page is split into three blocks:
 
 ---
 
-Made by **Apex Invent** (Basilisk). 🐍
+Made by **Dom Tursini** (Apex Invent/Basilisk). 🐍
