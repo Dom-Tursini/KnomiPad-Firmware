@@ -1,4 +1,4 @@
-# KnomiPad — Turn Your BTT Knomi V2 into a Mini Stream Deck 🎛️
+# KnomiPad — Turn Your BTT Knomi V2 into a Mini Stream Deck style MacroPad 🎛️
 
 <p align="center">
   <img src="docs/images/knomipad-hero.png" alt="KnomiPad hero1" />
